@@ -1,0 +1,4 @@
+- Hello there, I'm SkullyIsHere/SKu11y.
+- I don't know how to code but I'm learning.
+- I'm currently learning how to code.
+- I am attempting to create JARVIS on github, that's really my main goal on GitHub
